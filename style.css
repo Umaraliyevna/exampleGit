@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+
+button{
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: aqua;
+}
